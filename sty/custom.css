@@ -1,0 +1,14 @@
+/* Table styles
+-------------------------------------------------- */
+table, th, td {
+	border: 1px solid rgba(0, 0, 0, .5);
+	border-collapse: collapse;
+}
+
+tr {
+	padding: 1px;
+}
+
+th, td {
+	padding: 2px;
+}
