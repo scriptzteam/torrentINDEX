@@ -1,0 +1,16 @@
+{
+  "name": "scriptzteam/torrent-index",
+  "description": "A simple PHP torrent tracker web UI.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ScriptzTeam",
+      "email": "scriptzteam@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "scriptzteam\\TorrentIndex\\": "src/"
+    }
+  }
+}
